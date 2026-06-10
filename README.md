@@ -54,13 +54,14 @@ iMessage/
 
 以下为应用主要界面的运行截图：
 
-| 截图 | 说明 |
-|------|------|
-| ![收件箱](img/1.png) | 收件箱列表界面 |
-| ![聊天](img/2.png) | 聊天消息界面 |
-| ![筛选](img/3.png) | 筛选过滤界面 |
-| ![最近删除](img/4.png) | 最近删除回收站 |
-| ![批量导入](img/5.png) | 批量导入消息表单 |
+<img src="img/1.png" width="45%" /> <img src="img/2.png" width="45%" />
+*收件箱列表界面 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 聊天消息界面*
+
+<img src="img/3.png" width="45%" /> <img src="img/4.png" width="45%" />
+*筛选过滤界面 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最近删除回收站*
+
+<img src="img/5.png" width="45%" />
+*批量导入消息表单*
 
 ## 主要功能
 
