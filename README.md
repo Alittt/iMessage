@@ -1,3 +1,7 @@
+<meta property="og:image" content="https://socialify.git.ci/Alittt/iMessage/image?custom_description=iOS+iMessage+Apps+Demo&description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Auto" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="640" />
+
 # iMessage
 
 > 基于 SwiftUI 构建的 iOS 模拟 iMessage 应用，支持模拟发送消息、批量导入、筛选过滤和软删除功能。
