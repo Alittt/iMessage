@@ -121,7 +121,7 @@ xcodebuild -project iMessage.xcodeproj \
 | 配置项 | 值 |
 |--------|-----|
 | **Bundle ID** | `com.CloZhi.iMessage` |
-| **开发团队** | YunZhi Net Co.,Ltd |
+| **开发团队** | CLOZHI TECHNOLOGY |
 | **Swift 版本** | 5.0 |
 | **代码签名** | 自动（Development） |
 | **本地化** | String Catalogs (`STRING_CATALOG_GENERATE_SYMBOLS = YES`) |
